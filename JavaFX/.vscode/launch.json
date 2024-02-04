@@ -1,0 +1,62 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "c6CommunicateInWindows",
+            "request": "launch",
+            "mainClass": "c6CommunicateInWindows",
+            "projectName": "JavaFX_dbfa6087",
+            "vmArgs": "--module-path \"E:\\JavaFXSetup\\javafx-sdk-21.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "c5MultipleWindows",
+            "request": "launch",
+            "mainClass": "c5MultipleWindows",
+            "projectName": "JavaFX_dbfa6087",
+            "vmArgs": "--module-path \"E:\\JavaFXSetup\\javafx-sdk-21.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "c4SwitchingScene",
+            "request": "launch",
+            "mainClass": "c4SwitchingScene",
+            "projectName": "JavaFX_dbfa6087",
+            "vmArgs": "--module-path \"E:\\JavaFXSetup\\javafx-sdk-21.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "c3AnonymousAndLamda",
+            "request": "launch",
+            "mainClass": "c3AnonymousAndLamda",
+            "projectName": "JavaFX_dbfa6087",
+            "vmArgs": "--module-path \"E:\\JavaFXSetup\\javafx-sdk-21.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "c2HandleInput",
+            "request": "launch",
+            "mainClass": "c2HandleInput",
+            "projectName": "JavaFX_dbfa6087",
+            "vmArgs": "--module-path \"E:\\JavaFXSetup\\javafx-sdk-21.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "c1BasicWindow",
+            "request": "launch",
+            "mainClass": "c1BasicWindow",
+            "projectName": "JavaFX_dbfa6087",
+            "vmArgs": "--module-path \"E:\\JavaFXSetup\\javafx-sdk-21.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
