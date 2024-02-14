@@ -6,6 +6,38 @@
     "configurations": [
         {
             "type": "java",
+            "name": "c10ExtractAndValidateInput",
+            "request": "launch",
+            "mainClass": "c10ExtractAndValidateInput",
+            "projectName": "JavaFX_dbfa6087",
+            "vmArgs": "--module-path \"E:\\JavaFXSetup\\javafx-sdk-21.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "c9GridPane",
+            "request": "launch",
+            "mainClass": "c9GridPane",
+            "projectName": "JavaFX_dbfa6087",
+            "vmArgs": "--module-path \"E:\\JavaFXSetup\\javafx-sdk-21.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "c8EmbeddingLayout",
+            "request": "launch",
+            "mainClass": "c8EmbeddingLayout",
+            "projectName": "JavaFX_dbfa6087",
+            "vmArgs": "--module-path \"E:\\JavaFXSetup\\javafx-sdk-21.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "c7CloseProperly",
+            "request": "launch",
+            "mainClass": "c7CloseProperly",
+            "projectName": "JavaFX_dbfa6087",
+            "vmArgs": "--module-path \"E:\\JavaFXSetup\\javafx-sdk-21.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
             "name": "c6CommunicateInWindows",
             "request": "launch",
             "mainClass": "c6CommunicateInWindows",
