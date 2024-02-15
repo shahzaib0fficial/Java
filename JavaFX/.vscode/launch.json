@@ -6,6 +6,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "c11CheckBoxex",
+            "request": "launch",
+            "mainClass": "c11CheckBoxex",
+            "projectName": "JavaFX_dbfa6087",
+            "vmArgs": "--module-path \"E:\\JavaFXSetup\\javafx-sdk-21.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
             "name": "c10ExtractAndValidateInput",
             "request": "launch",
             "mainClass": "c10ExtractAndValidateInput",
