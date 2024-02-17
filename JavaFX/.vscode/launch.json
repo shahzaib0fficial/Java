@@ -6,6 +6,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "c14ListView",
+            "request": "launch",
+            "mainClass": "c14ListView",
+            "projectName": "JavaFX_dbfa6087",
+            "vmArgs": "--module-path \"E:\\JavaFXSetup\\javafx-sdk-21.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "c13ComboBoxes",
+            "request": "launch",
+            "mainClass": "c13ComboBoxes",
+            "projectName": "JavaFX_dbfa6087",
+            "vmArgs": "--module-path \"E:\\JavaFXSetup\\javafx-sdk-21.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "c12ChoiceBoxes",
+            "request": "launch",
+            "mainClass": "c12ChoiceBoxes",
+            "projectName": "JavaFX_dbfa6087",
+            "vmArgs": "--module-path \"E:\\JavaFXSetup\\javafx-sdk-21.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
             "name": "c11CheckBoxex",
             "request": "launch",
             "mainClass": "c11CheckBoxex",

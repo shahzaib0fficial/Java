@@ -7,7 +7,7 @@ import javafx.scene.control.Label;
 import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
-public class c11CheckBoxex extends Application {
+public class c11CheckBoxes extends Application {
     public static void main(String[] args){
         launch(args);
     }
