@@ -1,0 +1,15 @@
+.root{
+    -fx-background-color : #383838;
+    -fx-font-size: 10pt;
+}
+.choiceBox{
+    -fx-background-color: yellow;
+}
+.choiceBox .label{
+    -fx-text-fill: red;
+}
+#submit{
+    -fx-background-color: linear-gradient(#fff,#383838);
+    -fx-text-fill: blue;
+    -fx-background-radius: 5;
+}

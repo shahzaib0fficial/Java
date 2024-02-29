@@ -6,6 +6,38 @@
     "configurations": [
         {
             "type": "java",
+            "name": "c18BindingProperty",
+            "request": "launch",
+            "mainClass": "c18BindingProperty",
+            "projectName": "JavaFX_dbfa6087",
+            "vmArgs": "--module-path \"E:\\JavaFXSetup\\javafx-sdk-21.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "c17CSS",
+            "request": "launch",
+            "mainClass": "c17CSS",
+            "projectName": "JavaFX_dbfa6087",
+            "vmArgs": "--module-path \"E:\\JavaFXSetup\\javafx-sdk-21.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "c11CheckBoxes",
+            "request": "launch",
+            "mainClass": "c11CheckBoxes",
+            "projectName": "JavaFX_dbfa6087",
+            "vmArgs": "--module-path \"E:\\JavaFXSetup\\javafx-sdk-21.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "c16Menu",
+            "request": "launch",
+            "mainClass": "c16Menu",
+            "projectName": "JavaFX_dbfa6087",
+            "vmArgs": "--module-path \"E:\\JavaFXSetup\\javafx-sdk-21.0.2\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
             "name": "c15Table",
             "request": "launch",
             "mainClass": "c15Table",
