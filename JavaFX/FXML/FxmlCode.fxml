@@ -1,0 +1,27 @@
+<!-- <?xml version="1.0" encoding="UTF-8"> -->
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml" fx:controller = "Controller">
+
+    <Label text="Text 1"/>
+    <Label>
+        <text>Text 2</text>
+    </Label>
+    <Button fx:id="button" text="Click me" onAction="#handleButton"/>
+
+    <Label text="-----------------"/>
+    <Label text="Text" fx:id="textFeild"/>
+    <Label text="${textFeild.text}"/>
+
+    <Label text="-----------------"/>
+    <Label text="Difficulty"/>
+    <fx:define>
+        <ToggleGroup fx:id="toggleGroup"/>
+    </fx:define>
+
+    <RadioButton text="Easy" toggleGroup = "$toggleGroup"/>
+    <RadioButton text="Medium" toggleGroup = "$toggleGroup"/>
+    <RadioButton text="Hard" toggleGroup = "$toggleGroup"/>
+
+</VBox>
